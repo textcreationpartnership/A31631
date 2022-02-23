@@ -1,0 +1,533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The several articles or parts of the proposal upon land-credit rationally explained.</title>
+            <author>Chamberlen, Hugh.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31631</idno>
+            <idno type="STC">Wing C1888</idno>
+            <idno type="STC">ESTC R217691</idno>
+            <idno type="EEBO-CITATION">99829345</idno>
+            <idno type="PROQUEST">99829345</idno>
+            <idno type="VID">33782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2004:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The several articles or parts of the proposal upon land-credit rationally explained.</title>
+                  <author>Chamberlen, Hugh.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Sowle, in White-Hart-Court in Gracious-street,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>By Hugh Chamberlen.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original at the Christ Church Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rent --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33782:1" rendition="simple:additions"/>
+            <head>THE SEVERAL ARTICLES Or PARTS of the PROPOSAL UPON <hi>Land-Credit,</hi> RATIONALLY
+EXPLAINED.</head>
+            <p>TIs neceſſary the Rents ſecuring ſhould be much greater, and for a longer time, than the
+Rent ſecured; that ſo the Credit raiſed thereupon, may be certainly Anſwered: Therefore One
+hundred and fifty Pound <hi>per Annum,</hi> for One hun<g ref="char:EOLhyphen"/>dred and fifty Years, which amounts in that
+time to Twenty two thouſand five hun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red Pounds, is required to ſecure Ten thouſand Pound
+charged thereupon.</p>
+            <p>The great Advantage hereby accruing to the Subſcriber, is not the only Reaſon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy Eſtates
+are propoſed to be engaged herein for ſo long a Term, and ſo great a Sum, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut likewiſe that
+there may be a ſufficient Joynt-Stock ſetled, to make good, (for want of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Regiſter)
+Defective Titles, if any ſuch ſhould be engaged, which can be no ways <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe provided
+againſt, and alſo to ſtrengthen the Fund: And it will certainly be much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore beneficial to
+the Nation in general, to have Ten thouſand <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon the ſame Eſtate, (tho' the Ten
+thouſand Pound were loſt at Ten years end) than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have but Two thouſand Pound current
+ſo long, without being loſt: And further, for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at ſo good a Deſign may not be hazarded,
+much leſs loſt, for want of a ſufficient <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pport.</p>
+            <p>The firſt payment of the Annual Rent is not to be made, till after the Freeholders <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all have
+received the Third Payment in Bills of Credit, at the end of the ſecond year; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he will
+be poſſeſſed of above the full value of his Eſtate, according to the pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt Rates of
+Purchaſe, before he can be one Farthing out of Pocket.</p>
+            <p>The Thouſand Pound paid down at firſt into this Office by the Freeholders in
+<hi>Ster<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng</hi> Money, is neither lent, given, advanced, nor loſt, only Exchanged into Bills
+of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redit, which are Money of another Species, or another meaſure of Trade, as chang<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g Gold
+into Silver, <hi>&amp; vice verſa,</hi> and ſo no loſs thereby, being paid into the
+Joynt-<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ock, and imployed to help the Circulation of the Bills. Beſides which Thouſand <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>und,
+the Subſcribing Freeholders will receive Five thouſand Pound, as propoſed, in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſideration
+of ſetling his Eſtate to anſwer this Credit, and Three thouſand Pound <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore including the
+Thouſand Pound paid in Money, fora Joynt-Stock, which toge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er will trebly exceed the Value of
+his Eſtate, according to common Computation.</p>
+            <p>Theſe Bills or Tickets of Credit, are propoſed to be delivered gradually, at ſeveral
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſucceſſive times, to the Freeholder, for the following Reaſons, (tho' many more
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ight, if neceſſary, be offered) <hi>vizt.</hi> Firſt, Becauſe if they were to be paid all
+at once; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere might poſſibly be ſuch a Glut of Credit, that other Commodities could not keep
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, and increaſe proportionably therewith, which might be a loſs to private Perſons, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o'
+none to the Publick, unleſs by exceſſive raiſing the Price of Foreign Commodities, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r
+Buyers will always multiply in proportion with Money; and plenty of this current <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redit
+(ſuperiour in Uſe and Value to other Money) will give Tradeſmen a mighty
+<pb n="2" facs="tcp:33782:2"/>proſpect of good Markets; and they will then, as
+they do now, always provi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Goods ſufficient to anſwer the Number of their Chapmen; which
+Proportion, with out a Law, regulates Market-Prices. And this further Reaſon may be added, Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+hereby Perſons, who may have prior Engagements, and for want of notice did no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> timely enter their
+Claim, may ſtill find their full ſatisfaction out of what remains.</p>
+            <p>The Joynt-Stock was not deſigned only to increaſe Trade, tho' that is a very goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Conſideration, but alſo to ſtrengthen the Fund, and to remain a Security liable to mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good
+all Loſſes by bad Titles; and therefore 'tis ſubmitted to the Controll of the Dire<g ref="char:EOLhyphen"/>ctors, to
+prevent loſs by too apparent hazards, and from being imbezled.</p>
+            <p>The Joynt-Stock, like others, will be managed by ſuch Governours as the Subſc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bers ſhall
+Annually chooſe, (but ſtill under the Controll already mentioned) and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhall have ſuch
+Allowances out of a Moyety of the Profits, as the Subſcribers ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> judge reaſonable, and
+appoint.</p>
+            <p>If this Joynt-Stock produceth more profit to the Freeholder, than he is hereby ob<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ged to pay
+Annually (as in all probability it will) then the Eſtate ſetled as aforeſaid f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> One hundred
+and fifty years, becomes onely a Collateral Security, and pays nothing.</p>
+            <p>To avoid the danger of Loſs to the Publick, as well as to themſelves and all othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+concerned, which all former Banks, as well as Bankers, are ſubject to, by lodging th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truſt and
+Power of deceiving the Nation, and the Management and Profits, in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame hands, they are by
+this Conſtitution divided; For the Truſt is wholly committe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to known impartial Directors of
+Publick Character, and the Profits (if any after th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> defraying all Expences) remains to the
+Undertakers: So that the Directors, if not b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>led by their Honour and Conſciences, are not
+under the leaſt Temptation from the Intereſt, to break their Truſt, by iſſuing forth more
+Credit than they have Fund to a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſwer: And the Undertakers, tho' their Inclinations were never
+ſo ſtrong to pur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their ſeeming Intereſt to the hazard of the Publick Loſs, have not
+the leaſt Powe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which all other Banks and Bankers have, tho' their Prudence and Honeſty may
+forb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their uſing it. Whence this Conſtitution may by theſe great and certain Checks, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+pronounced exempt from any Damage to the Publick, or any privat Perſon, by Miſta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or
+Loſs.</p>
+            <p>It may be obſerved, That the whole Sum hereby charged upon Eſtates, is no mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than a R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turn
+of the Principal by One hundred equal Annual Payments, and for fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bearance in the mean time, with
+the yearly Intereſt but of Five Shillings for every o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hundred Pound, which is but the 24th part
+of what the Law allows to be paid for I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tereſt of Money.</p>
+            <p>The hundred Annual Payments is neither very ſtrange, too long a Term, nor with<g ref="char:EOLhyphen"/>out Precedent;
+for the Bank of <hi>England,</hi> tho' ſetled by Act of Parliament, hath a pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>petual Income,
+unleſs the Principal ſhould be paid at Eleven years end by the Nation which the Perſons
+intereſted in the ſaid Bank hopes, and all others fear, they will no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And without doubt
+Freeholders Eſtates in <hi>England</hi> are a more certain Fund than at Tax whatever can be,
+becauſe of troubleſome times, danger of ſhutting up the Exch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>quer again, of being a
+Grievance to the People, as all Taxes are, more or leſs; and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cauſe Taxes are impoſed,
+whenas this is freely choſen, and for Gain not Loſs; and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo for that Money-Banks may be a
+Temptation to a Conquerour, and Land-Banks ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>not; and conſequently this Propoſal is much
+better, and more ſecure than the ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bank, which is founded only upon private Reputation, and
+the Tunnage or Exciſe Tax; or than the Bank of <hi>Amſterdam,</hi> which the City is bound,
+only by their Inte<g ref="char:EOLhyphen"/>reſt and Reputation, to make good. Nor can any other Bank in the World be
+Supe<g ref="char:EOLhyphen"/>riour to this in any reſpect.</p>
+            <p>Here is provided more ready Money to help Circulate this Credit, than any othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bank has to make
+their Bills current; for here will be a Fourth part Money, whena<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Bank Eſtabliſhed by
+Parliament, had at firſt but a Sixth part, and now poſſibly much leſs; for who knows how
+many Bills they have iſſued out, or to what value? fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they have no Check but their own Honour:
+And Dr. <hi>Barebone</hi>'s Land-Bank, tho' a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Excellent Contrivance, hath not a Tenth part; and
+what private Traders and Banke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have is uncertain, tho' much to be feared not near ſo much.</p>
+            <pb n="3" facs="tcp:33782:2"/>
+            <p>To ſum up all in few words: This propoſed Bank offers more Advantages, and a greater Profit
+to Subſcribers, and is Eſtabliſhed upon a ſecurer Fund, which neverthe<g ref="char:EOLhyphen"/>leſs is yearly
+ſtrengthened; and the ſame is under a better Conſtitution: It hath a lar<g ref="char:EOLhyphen"/>ger ſtock of Money
+to help circulate the Credit; And will bring much more benefit to the Nation in general, than any
+other Bank whatever in being, or propoſed; And therefore 'tis not without much reaſon hoped it
+will proſperouſly ſucceed.</p>
+            <p>Beſides, It may not be amiſs to take notice, That the Propoſer hereof was the firſt that
+ever contrived Banks of this Nature; and thoſe lately Eſtabliſhed are but a ſmall part of
+his Invention: He was alſo the firſt Perſon that of late years hath moved for Publick Banks,
+and laboured to infuſe a good Opinion of them, and to remove all Im<g ref="char:EOLhyphen"/>pediments and Objections that
+hindred and oppoſed them; the Succeſs of which En<g ref="char:EOLhyphen"/>deavours is obvious by the preſent Banks
+Eſtabliſhed, and of others now ſetting up.</p>
+            <p>So that, if there were no more Advantage and Security in this Bank, than in others, yet it will
+ſeem Juſt to Worthy and Generous Perſons to give this the preference for the Author's
+ſake</p>
+            <p>Let honeſt and wiſe Men therefore conſider well this Propoſal, together with their own
+Intereſt, and then Act accordingly; and there is no queſtion, but ſome, if not many, not
+altogether ſo wiſe, may yet be wiſe enough to follow ſuch good Ex<g ref="char:EOLhyphen"/>amples.</p>
+            <p>In ſhort, if any Inlet of a Diſhoneſt Practice can be diſcovered in this Undertaking,
+the Parties concerned are very ready to ſubmit to any Regulation ſhall be adviſed by the
+Subſcribers: And therefore it is hereby concluded, That any Subſcriber may with<g ref="char:EOLhyphen"/>hold his Rent
+for the Value of his Bills, which are not complied with, until he can paſs them away.</p>
+            <p>THIS PROPOSAL is no more than what is daily practiced by Gameſters, who engage their
+<hi>Guineas</hi> to the Box, for thirty <hi>Counters</hi> a piece, which they then Value as
+<hi>Shillings;</hi> and during the <hi>Play,</hi> tho' never ſo long, paſs for ſo much
+Currently among themſelves, or any new <hi>Gameſters</hi> that comes into the <hi>Game</hi>
+with them: And the Reaſon is, becauſe the <hi>Fund</hi> or <hi>Guineas</hi> are ſecured in
+the <hi>Box,</hi> or <hi>Bank;</hi> for the <hi>Counters</hi> are good Shillings as long as the
+<hi>Guineas</hi> are kept in the Box, tho' it ſhould be for One Thouſand Years; and ſo Land
+Credit is good as long as the Land is able to exchange it all at laſt. When the <hi>Game</hi> is
+done, the <hi>Box</hi> is obliged to Ex<g ref="char:EOLhyphen"/>change the <hi>Winners Counters</hi> for <hi>Guineas</hi>
+again at the ſame Value they delivered them; ſo that all their Turns are equally ſerved with
+the <hi>Counters</hi> as with <hi>Shillings,</hi> and none ſuffers the leaſt Loſs by the
+<hi>Counters.</hi> And if the <hi>Game</hi> had held Five Hundred Years, and the <hi>Guineas</hi>
+been ſafe kept ſo long in the <hi>Box,</hi> the <hi>Counters</hi> had been very good
+<hi>Shillings</hi> all that time, and anſwered all the Ends and Uſes as well. Such indeed as
+were ignorant, that <hi>Guineas</hi> were Pledged or Staked, or did not Credit the
+<hi>Box-keeper</hi> or <hi>Banker,</hi> might probably refuſe the <hi>Counters</hi> for
+<hi>Shillirgs;</hi> but no others would, no not a <hi>Bettor</hi> or <hi>Stander-by.</hi>
+            </p>
+            <p>The <hi>Propoſal</hi> above mentioned, offers principally two <hi>Points</hi> to
+Conſideration, the <hi>
+                  <g ref="char:V">Ʋ</g>tile,</hi> and the <hi>Poſſibile:</hi> The firſt is Obvious, in
+caſe that the propoſed <hi>Credit upon Land Security</hi> is equal, if not ſuperior to
+<hi>Gold,</hi> as to its uſe as Money. And alſo, if e<g ref="char:EOLhyphen"/>very <hi>Subſcriber</hi> can in a few
+Months have, what will now ſcarcely yield him Two Thouſand Pounds, improved to Eight
+Thouſand, of which the Stock may, in a very few Years, be Reaſonably Expected to afford near
+Twenty <hi>Per Cent.</hi> or five Hundred Pounds <hi>per annum</hi> for ever.</p>
+            <p>The ſecond is the <hi>Poſſibile,</hi> without which the firſt is but an Airy Notion:
+And, as to this, Nothing is more ordinary in <hi>Trading Countries,</hi> than making
+<hi>Payments,</hi> eſpe<g ref="char:EOLhyphen"/>cially of large Sums, in <hi>Bills of Exchange, Bills of Credit,</hi> or
+<hi>Bank-Credit:</hi> And ſo a Bill of one Hundred Pounds may, if it paſs no more than twenty
+Hands, diſcharge effectually two Thouſand Pounds, without ever counting above a Hundred Pounds
+at laſt; and it might as well have paſſed two Hundred Thouſand Hands for the ſame
+reaſon</p>
+            <pb n="4" facs="tcp:33782:3"/>
+            <p>Now all that can be called new in this <hi>Propoſal,</hi> is only the Subjecting, the Rent of
+private <hi>Gentlemens Eſtates,</hi> to anſwer all the <hi>Bills</hi> or <hi>Tickets of
+Credit</hi> iſſued forth, to ſecure thereby all perſons, that receive them, from being
+looſers by them, which certainly makes the Bills never the Worſe: And tho' tis confeſt, that
+this is a Novelty, yet 'tis no ſuch great Myſtery of Trade, but that every Gentleman may
+eaſily ap<g ref="char:EOLhyphen"/>prehend it.</p>
+            <div type="part">
+               <head>A. Compariſon of the Circulation of Gold, and of Credit.</head>
+               <p>A Settles his Land for one Hundred and Fifty years, to pay One hundred <hi>lib.</hi> of Annual
+Rent in Bills of Credit to the Office; he receiving from the Office a ſum or conſideration in
+the ſame Credit, for the purchaſe of the ſaid Rent charge.</p>
+               <p>
+                  <hi>B.</hi> Makes a like Settlement of Lands to <hi>C.</hi> to pay a Hundred <hi>lib.</hi> in
+Gold, for the ſame term of Years; having received his Purchaſe Money in Gold from
+<hi>C.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Pays a Debt of a Hundred <hi>lib.</hi> in this Credit, to his Coach-maker; the Coach
+maker pays it to the Currier for Leather; the Currier pays the ſame to the Tanner for Hides: The
+Tanner pays the ſame to the Butcher for Skins and raw Hides: Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Butcher pays it to a Graſier
+for Cattle: The Graſier to a Farmer for Corn an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Graſs: The Farmer pays it to <hi>A.</hi> his
+Landlord, and <hi>A.</hi> pays it to the Office for h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Annual Rent. Now here is all their
+occaſions anſwered; and none the worſe, or th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poorer by it; but the contrary: the Office
+receiving back what is delivered out.</p>
+               <p>Now take the Payments as running in Gold</p>
+               <p>
+                  <hi>B.</hi> Pays a Debt in Gold of a Hundred Pound, to his Coach-maker: the Coach ma<g ref="char:EOLhyphen"/>ker pays
+the ſame to a Currier for Leather: the Currier pays it to a Tanner for Hides the Tanner to a
+Butcher for Skins and raw Hides: the Butcher to a Graſier for Cattle the Graſier Pays it to a
+Farmer for Corn and Graſs: the Farmer pays it to <hi>B.</hi> his Land<g ref="char:EOLhyphen"/>lord for Rent: And
+<hi>B.</hi> the Landlord pays the ſame Gold to <hi>C.</hi> for his Annual Ren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Now by this
+Compariſon it is plain, that in the Circulation and courſe of Dealing from the Office to the
+Landlord, and from <hi>C.</hi> to <hi>B.</hi> and back to the Office, and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>C.</hi> again, the
+turn is as well ſerved as in the inſtance of Gold. And the Office is n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> poorer in receiving
+Back the Credit: Nor <hi>C.</hi> no richer in receiving Back his Gold; tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> both were, at the
+iſſuing of their ſeveral Sums in Credit and Gold.</p>
+               <p>Such as are unwilling to tye their Eſtates for ſo long a time as 150 years, may conſider
+th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt men readily part with them now for ever, for leſs than half what they are to receive
+by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Propoſal. And in anſwer to ſuch others as fancy 150 <hi>l. per annum,</hi> which they
+now value 2 or 3000 <hi>l.</hi> can never ſecure 10000 <hi>l.</hi> if they have not read a
+Pamphlet called, <hi>The Rodds f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Fools Back,</hi> they may be ſatisfied with what follows,
+<hi>vizt.</hi> That the 10000 <hi>l.</hi> iſſued out in Credit, is not borrowed at Intereſt,
+nor the Intereſt and Principal to be paid at once, as common Mortgages, but by one hundred Annual
+Payments; and certainly 150 <hi>l. per annum</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very good Security for the payment of 100
+<hi>l. per annum.</hi> Theſe Eſtates are neither bought n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſold, but only made a Security
+for ſatisfying the Bills or Tickets of Credit iſſued there upon which can be as well
+performed in the time hereby limited, as any Payments otherwiſe ſecur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> But if lowering
+Intereſt to Three <hi>per Cent.</hi> will Raiſe Land to Forty years Purchaſe, as all kno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing
+Men affirm, then the increaſe of Credit by this Propoſal may bring down Intereſt to T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or
+One <hi>per Cent.</hi> and conſequently advance Land to Eighty years Purchaſe, or more; and
+th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the engaged Lands will exceed in value what they are engaged for; eſpecially the Joynt Sto<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+being (as 'tis) added to the Security.</p>
+               <p>For the Receiving Subſcriptions, and ſatisfying further all Perſons not fully Infor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed
+herein, there is attendance given every <hi>Monday, Wedneſday,</hi> and <hi>Friday,</hi> after
+Six the Evening, at Dr. <hi>Chamberlain</hi>'s Houſe in <hi>Eſſex-ſtreet,</hi> near the
+<hi>Temple.</hi> And eve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Day at Mr. <hi>White</hi>'s Chambers, Numb. 7. at the New Square of
+<hi>Lincoln</hi>'s-Inn, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at Mr. <hi>Puckle</hi>'s in the Out-Ropers Office on the <hi>Royal
+Exchange,</hi> from Eight of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Clock in the Morning till Twelve at Noon; and from Three, till
+Seven in the Afterno<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in
+<hi>Gracious-ſtreet.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
